@@ -1,0 +1,117 @@
+{
+    "1": {
+        "date": "2026-03-27",
+        "task": "tarea1",
+        "state": "done"
+    },
+    "2": {
+        "date": "2026-03-28",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "3": {
+        "date": "2026-03-27",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "4": {
+        "date": "2026-03-27",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "5": {
+        "date": "2026-03-27",
+        "task": "tarea1",
+        "state": "done"
+    },
+    "6": {
+        "date": "2026-03-27",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "7": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "8": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "9": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "10": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "11": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "12": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "13": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "14": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "15": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "16": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "17": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "18": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "19": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "20": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "21": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "pending"
+    },
+    "22": {
+        "date": "2026-03-31",
+        "task": "tarea1",
+        "state": "done"
+    },
+    "23": {
+        "date": "2026-03-31",
+        "task": "tarea 2",
+        "state": "pending"
+    }
+}
